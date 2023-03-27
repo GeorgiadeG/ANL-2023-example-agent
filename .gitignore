@@ -8,3 +8,7 @@ results
 
 *.sbatch
 *.log
+
+cenv/
+
+.idea/
